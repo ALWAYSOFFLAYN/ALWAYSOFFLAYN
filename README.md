@@ -4,4 +4,4 @@
 - 📫 How to reach me
    Telegram : @ALWAYSOFFLAYN
    LinkedIn : alwaysofflayn (Edgar Kasimov)
-- ⚡ I'm 19 y.o, looking foward to learn throught practise on LLM Security (Pentest of ML models)
+- ⚡ 20 y.o, looking foward to learn throught practise on LLM Security (Pentest of ML models)
