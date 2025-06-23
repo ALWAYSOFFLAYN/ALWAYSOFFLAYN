@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @ALWAYSOFFLAYN
 
+- ⚡ 20 y.o, looking foward to learn throught practise on DS/ML Security 
+
+---
+
+
 ---
 
 # - 👀 I’m interested in 
@@ -10,10 +15,6 @@ LLM Pentesting and development
 
 # - 🌱 I’m currently learning :
 Fundamentals and more over on both spheres
-
----
-
-- ⚡ 20 y.o, looking foward to learn throught practise on LLM Security (Pentest of ML models)
 
 ---
 
