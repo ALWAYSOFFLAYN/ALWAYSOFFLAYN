@@ -9,8 +9,8 @@
 
 # - 👀 I’m interested in:
 
-** Web Penetration Testing
-** LLM Pentesting and Development
+* Web Penetration Testing
+* LLM Pentesting and Development
 
 ---
 
