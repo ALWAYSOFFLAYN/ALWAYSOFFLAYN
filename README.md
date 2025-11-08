@@ -36,6 +36,7 @@ AI Safety ( specially AI Security: Red Teaming )
 
 # - 📫 How to reach me:
 Telegram : @ALWAYSOFFLAYN
+
 LinkedIn : alwaysofflayn (Edgar Kasimov)
 
 <picture>
