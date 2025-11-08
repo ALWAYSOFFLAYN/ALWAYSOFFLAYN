@@ -7,16 +7,16 @@
 
 # - 👀 I’m interested in:
 
-* Web Penetration Testing
-* Language Models Pentest and Red Teaming
-* Development in NLP , RAG like techniques
+* AI / ML Engineering
+* AI Safety ( specially AI Security: Red Teaming )
 
 ---
 
 # - 🌱 I’m currently learning :
-AI / ML Engineering
-AI Safety ( specially AI Security: Red Teaming )
 
+* Web Penetration Testing
+* Language Models Pentest and Red Teaming
+* Development in NLP , RAG like techniques
 
 ---
 # - 📊 Stats
