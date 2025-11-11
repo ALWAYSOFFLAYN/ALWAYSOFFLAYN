@@ -28,7 +28,7 @@
   <a href="https://app.hackthebox.com/profile/1836411"><img src="https://www.codewars.com/users/alwaysofflayn/badges/large" alt="Codewars user badge"></a>
 </div>
 <div align="center">
-  <a href="https://tryhackme.com/p/ALWAYSOFFLAYN"><img src="https://tryhackme-badges.s3.amazonaws.com/ALWAYSOFFLAYN.png" alt="TryHackMe user badge" style="float:left"></a>
+  <a href="https://tryhackme.com/p/ALWAYSOFFLAYN"><img src="https://tryhackme-badges.s3.amazonaws.com/ALWAYSOFFLAYN.png?update=1" alt="TryHackMe user badge" style="float:left"></a>
   <a href="https://app.hackthebox.com/profile/1836411"><img src="https://www.hackthebox.eu/badge/image/1836411" alt="HackTheBox user badge" width="320" height="400"></a>
 </div>
 
