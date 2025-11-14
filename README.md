@@ -31,6 +31,8 @@
   <a href="https://tryhackme.com/p/ALWAYSOFFLAYN"><img src="https://tryhackme-badges.s3.amazonaws.com/ALWAYSOFFLAYN.png?update=1" alt="TryHackMe user badge" style="float:left"></a>
   <a href="https://app.hackthebox.com/profile/1836411"><img src="https://www.hackthebox.eu/badge/image/1836411" alt="HackTheBox user badge" width="320" height="400"></a>
 </div>
+<a href="https://www.kaggle.com/alwaysofflayn"><img width="750" height="210" alt="Kaggle user badge" src="https://github.com/user-attachments/assets/6b7e192b-c105-4fcf-b62a-08ee3331b7cd" /></a>
+
 
 ---
 
