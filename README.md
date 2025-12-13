@@ -21,7 +21,6 @@
 ---
 # - 📊 Stats
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysofflayn&theme=dark" alt="Git statistics">
     <img src="https://stats.justsong.cn/api/github?username=alwaysofflayn&theme=dark" alt="GitHub account statistics">
 </div>
 <div align="center">
