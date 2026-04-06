@@ -14,9 +14,9 @@
 
 # - 🌱 I’m currently learning :
 
-* Web Penetration Testing
-* Language Models Pentest and Red Teaming
-* Development in NLP , RAG like techniques
+* AI / ML and Agents Penetration Testing
+* Fundamentals of Red Teaming
+* Development in NLP with Python
 
 ---
 # - 📊 Stats
