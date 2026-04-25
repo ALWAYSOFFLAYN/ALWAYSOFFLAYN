@@ -24,7 +24,7 @@
     <img src="https://stats.justsong.cn/api/github?username=alwaysofflayn&theme=dark" alt="GitHub account statistics">
 </div>
 <div align="center">
-  <a href="https://app.hackthebox.com/profile/1836411"><img src="https://www.codewars.com/users/alwaysofflayn/badges/large" alt="Codewars user badge"></a>
+  <a href="https://app.hackthebox.com/public/users/1836411"><img src="https://www.codewars.com/users/alwaysofflayn/badges/large" alt="Codewars user badge"></a>
 </div>
 <div align="center">
   <a href="https://tryhackme.com/p/ALWAYSOFFLAYN"><img src="https://tryhackme-badges.s3.amazonaws.com/ALWAYSOFFLAYN.png" alt="TryHackMe user badge" style="float:left"></a>
