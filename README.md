@@ -28,7 +28,7 @@
 </div>
 <div align="center">
   <a href="https://tryhackme.com/p/ALWAYSOFFLAYN"><img src="https://tryhackme-badges.s3.amazonaws.com/ALWAYSOFFLAYN.png" alt="TryHackMe user badge" style="float:left"></a>
-  <a href="https://app.hackthebox.com/public/users/1836411"><img src="https://www.hackthebox.eu/badge/image/1836411" alt="HackTheBox user badge" width="320" height="400"></a>
+  <a href="https://profile.hackthebox.com/profile/019ddc3d-f5fd-70c3-9dd9-e0c241ae7692"><img src="https://profile.hackthebox.com/profile/019ddc3d-f5fd-70c3-9dd9-e0c241ae7692" alt="HackTheBox user badge" width="320" height="400"></a>
 </div>
 <a href="https://www.kaggle.com/alwaysofflayn"><img width="750" height="210" alt="Kaggle user badge" src="https://github.com/user-attachments/assets/6b7e192b-c105-4fcf-b62a-08ee3331b7cd" /></a>
 
