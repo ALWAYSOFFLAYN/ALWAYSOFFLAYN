@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @ALWAYSOFFLAYN
 
-- ⚡ 20 y.o, looking foward to learn throught practise on DS/ML Security 
+- ⚡ 2005 , looking foward to learn throught practise on DS/ML Security 
 
 
 ---
